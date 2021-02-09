@@ -1,2 +1,2 @@
-# multi-docker
-Training repo for deploying multi container apps
+# multi-docker-k8s
+Practice repo for multi-container deployment on Kubernetes
